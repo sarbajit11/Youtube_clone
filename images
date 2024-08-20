@@ -1,4 +1,2 @@
-git add images"C:\Users\User\Pictures\Screenshots\Screenshot 2024-08-20 135544.png"  # Make sure to use the correct path to your image
-git commit -m "Add image"
-git push origin images  # Push to the main branch
+![Screenshot 2024-08-20 135544](https://github.com/user-attachments/assets/fe0f7d83-2a56-4327-a216-282cc6a4d23d)
 
